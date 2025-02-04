@@ -1,0 +1,14 @@
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\bin\Debug\net8.0\RentalCompany.exe
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\bin\Debug\net8.0\RentalCompany.deps.json
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\bin\Debug\net8.0\RentalCompany.runtimeconfig.json
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\bin\Debug\net8.0\RentalCompany.dll
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\bin\Debug\net8.0\RentalCompany.pdb
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\RentalCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\RentalCompany.AssemblyInfoInputs.cache
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\RentalCompany.AssemblyInfo.cs
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\RentalCompany.csproj.CoreCompileInputs.cache
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\RentalCompany.dll
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\refint\RentalCompany.dll
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\RentalCompany.pdb
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\RentalCompany.genruntimeconfig.cache
+C:\Users\deryk\source\repos\RentalCompany\RentalCompany\obj\Debug\net8.0\ref\RentalCompany.dll
